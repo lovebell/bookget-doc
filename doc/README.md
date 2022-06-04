@@ -30,10 +30,11 @@ bookget 数字图书馆下载工具
 25. [日本本市立米泽图书馆](https://www.library.yonezawa.yamagata.jp/dg/zen.html)
 26. [日本庆应义塾大学图书馆](https://dcollections.lib.keio.ac.jp/ja/kanseki)
 27. [日本关西大学图书馆](https://www.iiif.ku-orcas.kansai-u.ac.jp/books)
-28. [洛阳市图书馆](http://221.13.137.120:8090/index.php)
-29. [温州市图书馆-瓯越记忆](https://oyjy.wzlib.cn/pdf/)
+28. [中国河南省洛阳市图书馆](http://221.13.137.120:8090/index.php)
+29. [中国浙江省温州市图书馆-瓯越记忆](https://oyjy.wzlib.cn/pdf/)
 30. [巴伐利亚州立图书馆](https://ostasien.digitale-sammlungen.de/)
 31. [斯坦福大学图书馆](https://searchworks.stanford.edu/?f%5Baccess_facet%5D%5B%5D=Online&f%5Bbuilding_facet%5D%5B%5D=East+Asia&f%5Bformat_main_ssim%5D%5B%5D=Book&f%5Blanguage%5D%5B%5D=Chinese&utf8=%E2%9C%93)
+32. [中国广东省深圳市图书馆-古籍](https://yun.szlib.org.cn/stgj2021/)
 
 
 [查看支持的URL格式，详细说明文档](/doc/urls.md)

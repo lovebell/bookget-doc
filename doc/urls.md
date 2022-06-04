@@ -188,3 +188,8 @@ https://ostasien.digitale-sammlungen.de/view/bsb11129280/1
 ```
 https://searchworks.stanford.edu/view/4182111   
 ```
++ 中国广东省深圳市图书馆-古籍
+```
+https://yun.szlib.org.cn/stgj2021/srchshowbook?type=4&book_id=18269  
+https://yun.szlib.org.cn/stgj2021/srchshowbook?type=1&book_id=18017
+```
